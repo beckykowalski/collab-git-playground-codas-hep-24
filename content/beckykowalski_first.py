@@ -3,4 +3,5 @@ print("hello world")
 print("second edit")
 # try to change commit message
 # edit
+print("testing a merge conflict")
 print("testing merge conflict step 2")
